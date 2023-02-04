@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a .Net developer @ AEC Energy. 
+I am a .Net developer @ AEC Energy. I am still actively coding and learning, however, I moved to Azure Devops for all my projects.
 
 
 ## 🌐 Socials:
