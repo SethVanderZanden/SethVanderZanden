@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am a .Net developer @ AEC Energy. I am still actively coding and learning, however, I moved to Azure Devops for all my projects.
-
+I am a .Net developer @ AEC Energy. I am actively developing new projects all the time.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seth-vanderzanden-080408171) 
