@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seth VanderZanden</h1>
 <h3 align="center">A passionate software developer from Ontario</h3>
 
-- 🔭 I’m currently working on **South Shore Saucier**
+- 🔭 I’m currently working on **South Shore Saucier**, **PRM**, **and more**
 
 - 🌱 I’m currently learning **Next.js, .Net 8**
 
