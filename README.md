@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **South Shore Saucier**, **PRM**, **and more**
 
-- 🌱 I’m currently learning **Next.js, .Net 8**
+- 🌱 I’m currently learning **.Net 8, Tailwind**
 
-- 💬 Ask me about **.Net MVC & Blazor & APIs**
+- 💬 Ask me about **Anything .Net Related**
 
 - 📫 How to reach me **sethvanderzanden28@gmail.com**
 
