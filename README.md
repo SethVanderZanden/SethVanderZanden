@@ -10,6 +10,6 @@
 
 ### 🔥 Current Stack I Live In (2025 edition)
 ```text
-Next.js 15 (app router) × Tailwind × shadcn/ui × TypeScript
-.NET 8 + Clean Architecture + MediatR + EF Core
-Azure everything (because bills gotta be paid)
+Next.js 15 × Tailwind × shadcn/ui × TypeScript
+.NET + Clean Architecture + MediatR + EF Core
+```
