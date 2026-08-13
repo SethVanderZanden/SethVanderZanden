@@ -2,7 +2,7 @@
 <h3 align="center">Development Team Lead · Husband · Dad of 2 · Ontario, Canada</h3>
 
 <p align="center">
-  I build web applications with <strong>.NET</strong> by day and side projects after the kids are asleep.
+  I build web applications by day and side projects after the kids are asleep.
   Family first, code second, growth always.
 </p>
 
@@ -24,7 +24,7 @@
 
 I'm a **Development Team Lead** at [AEC](https://www.linkedin.com/company/ag-energy-co-operative-ltd), where I lead teams working with cutting-edge technology in the energy and poultry sectors. I care about clean architecture, clear requirements, and shipping code without headaches. I'm also helping lead the way on **agentic workflows**, using AI to build and ship faster.
 
-When I'm not at work, I'm usually with my family, working on side projects, or founding open source tools.
+When I'm not at work, I'm usually with my family, working on side projects.
 
 ---
 
